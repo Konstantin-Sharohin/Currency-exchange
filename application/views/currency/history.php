@@ -33,16 +33,6 @@
           </td>
         </tr>
         <?php endforeach; ?>
-        <!-- <tr>
-          <th scope="row">EUR</th>
-          <td class="buy_eur">
-            <div class="spinner-border spinner-border-sm text-warning" role="status"></div>
-          </td>
-          <td class="sale_eur">
-            <div class="spinner-border spinner-border-sm text-warning" role="status"></div>
-          </td>
-        </tr> -->
-        
       </tbody>
     </table>
   </div>

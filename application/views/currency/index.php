@@ -48,4 +48,4 @@
     <p class="status"></p>
   </div>
 </div>
-<script src="<?php echo base_url(); ?>js/API.js"></script>
+<script src="http://www.currency-test.zzz.com.ua/js/API.js"></script>

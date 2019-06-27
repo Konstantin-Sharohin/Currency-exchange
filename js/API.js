@@ -63,8 +63,8 @@
                             }
                         });
 
-                    setTimeout(request, 5000);
-                }, 5000)
+                    setTimeout(request, 600000);
+                }, 600000)
 
             })
             /****  ****/

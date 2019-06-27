@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'paradox',
-	'database' => 'perfectum',
+	'hostname' => 'mysql.zzz.com.ua',
+	'username' => 'currency',
+	'password' => 'pg89piPQdfaED6d',
+	'database' => 'todo_test',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
