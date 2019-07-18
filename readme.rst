@@ -1,1 +1,1 @@
-A simplified MVC app with a public API integration (written in PHP using CodeIgniter)
+A simplified MVC app with a public API integration (written in PHP using CodeIgniter). You can visit it here: http://www.currency-test.zzz.com.ua/currencies, whilst http://www.currency-test.zzz.com.ua/currencies/history is an archive of saved info about the currency for the client.
